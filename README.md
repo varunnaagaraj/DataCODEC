@@ -1,4 +1,0 @@
-DataCODEC
-=========
-
-Steganography Tool
