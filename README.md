@@ -30,3 +30,10 @@ User Manual:
  *Click Decode to start decoding the data.
  *Once the encode is complete you will be redirected to the Main Menu.
  *The decoded files are stored in the encoded file directory.
+ 
+ 
+ 
+ Contact us:
+ Sugosh.N.R :- sugosh.nr@gmail.com
+ Varun Nagaraj :- varun.naagaraj@gmail.com
+ Suraj.K :- suraj.694@gmail.com
