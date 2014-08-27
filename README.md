@@ -1,11 +1,11 @@
 DataCODEC
 =========
-Steganography Tool
+Steganography Tool.
 
 Installation Notes:
 1. Download all the files given.
-2. Open setup.exe and select directory where you would like to install DataCODEC.exe
-3. After installation is complete browse to the directory and open DataCODEC.exe
+2. Open setup.exe and select directory where you would like to install DataCODEC.exe.
+3. After installation is complete browse to the directory and open DataCODEC.exe.
 
 User Manual:
 
